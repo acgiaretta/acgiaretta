@@ -1,16 +1,39 @@
-## Hi there 👋
+# Oi, eu sou a Carol 👋
 
-<!--
-**acgiaretta/acgiaretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou veterinária de formação e estudante de **Sistemas para Internet**, em transição para a área de **desenvolvimento web**.  
+Gosto de entender como as coisas funcionam, quebrar problemas grandes em partes menores e transformar ideias em algo que realmente funcione.
 
-Here are some ideas to get you started:
+Minha jornada começou cuidando de animais e hoje passa por código, lógica e muita curiosidade. Troquei o bisturi pelo teclado — e sigo aprendendo todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 O que estou aprendendo no momento
+- HTML, CSS e C++  
+- Lógica de programação  
+- Git e GitHub  
+- Conceitos básicos de desenvolvimento web
+
+---
+
+## 🧠 Interesses
+- UX/UI
+- Front-end 
+- Tecnologia aplicada a problemas reais  
+- Aprendizado contínuo (na prática, errando e corrigindo)  
+- Interfaces simples e funcionais
+
+---
+
+## 🛠️ Projetos
+Aqui você vai encontrar projetos de estudo e experimentação.  
+Nada de código perfeito — mas tudo feito com intenção de aprender e evoluir.
+
+---
+
+## 📫 Onde me encontrar
+- LinkedIn: www.linkedin.com/in/ac-giaretta  
+- GitHub: você já está aqui 🙂
+
+---
+
+✨ Em constante construção. Um commit de cada vez.
