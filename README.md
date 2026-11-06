@@ -67,6 +67,8 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 *A aventura ainda está carregando...*
 
+<br><br><br>
+
 <div align="left">
   <p>
     <img src="assets/characters/knight.gif" width="65" align="middle">
