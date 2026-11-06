@@ -1,57 +1,104 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="assets/banner/dark-fountain.gif" width="100%" alt="Deltarune Dark Fountain">
 
+<br>
+
 # ✦ CAROL'S DARK WORLD ✦
+
+<code> ✧ WELCOME, TRAVELER ✧ </code>
 
 *Bem-vindo(a) ao meu cantinho do Dark World.*
 
-`Estudante de Sistemas para Internet` · `Desenvolvedora em Progresso` · `Médica Veterinária`
+<img src="https://img.shields.io/badge/ESTUDANTE-Sistemas%20para%20Internet-5B8FA8?style=flat-square" alt="Estudante de Sistemas para Internet">
+<img src="https://img.shields.io/badge/STATUS-Desenvolvedora%20em%20Progresso-8B72B5?style=flat-square" alt="Desenvolvedora em progresso">
+<img src="https://img.shields.io/badge/ORIGEM-Médica%20Veterinária-779B83?style=flat-square" alt="Médica Veterinária">
 
-<img src="assets/decorations/divider.gif" width="70%" alt="Animated divider">
+<br>
 
-</div>
-
-## ♡ Sobre Mim
-
-<div align="center">
-
-<img src="assets/characters/susie.png" width="100" align="right" alt="Susie">
+<img src="assets/decorations/divider.gif" width="75%" alt="Animated divider">
 
 </div>
+
+<table>
+<tr>
+<td>
+
+### ♡ SOBRE MIM
 
 Olá, viajante! Eu sou a **Carol**.
 
 Sou veterinária de formação e, atualmente, estudante de **Sistemas para Internet**, explorando o mundo da programação e da tecnologia.
 
-Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando algo ou passando um tempo com meus gatos.
+Quando não estiver codando, provavelmente estarei lendo um livro, jogando algo ou passando um tempo com meus gatos.
 
-<br clear="right">
+</td>
+<td align="center" width="125">
+<img src="assets/characters/susie.png" width="110" alt="Susie">
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## ⚔ Meu Inventário
+### ⚔ MEU INVENTÁRIO
 
-**Tecnologias que Estudei:**
+<sub>Equipamentos e habilidades adquiridos durante minha jornada.</sub>
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
+
+**TECNOLOGIAS QUE ESTUDEI**
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql" alt="HTML, CSS, JavaScript, C and MySQL">
 
-</div>
+<br><br>
 
-## ✧ Escolha o seu Caminho
+<code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>C</code> · <code>MySQL</code>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ✧ ESCOLHA O SEU CAMINHO
+
+<sub>Cada jornada começa com uma escolha...</sub>
+
+<table>
+<tr>
+<th align="center" width="65">ROTA</th>
+<th align="left">INTERESSE</th>
+<th align="center">PROGRESSO</th>
+</tr>
+<tr>
+<td align="center">🎨</td>
+<td>Desenvolvimento Front-end</td>
+<td align="center"><code>Explorando</code></td>
+</tr>
+<tr>
+<td align="center">🗄️</td>
+<td>Back-end & Banco de Dados</td>
+<td align="center"><code>Explorando</code></td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td>Cibersegurança</td>
+<td align="center"><code>Explorando</code></td>
+</tr>
+</table>
 
 <div align="center">
 
-| Rota | Interesse |
-|:---:|:---|
-| 🎨 | Desenvolvimento Front-end |
-| 🗄️ | Back-end & Banco de Dados |
-| 🔐 | Cibersegurança |
-
 *Continuo explorando, aprendendo e encontrando o meu próprio caminho.*
+
+<img src="assets/decorations/divider.gif" width="75%" alt="Animated divider">
 
 </div>
 
@@ -59,17 +106,25 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 <div align="center">
 
-<img src="assets/characters/kris.png" width="60" alt="Kris">
-<img src="assets/characters/noelle.png" width="90" alt="Noelle">
-<img src="assets/characters/ralsei.png" width="90" alt="Ralsei">
+### ✦ O FIM DA JORNADA... POR ENQUANTO ✦
+
+<img src="assets/characters/kris.png" width="65" alt="Kris">
+<img src="assets/characters/noelle.png" width="95" alt="Noelle">
+<img src="assets/characters/ralsei.png" width="95" alt="Ralsei">
 
 ### Obrigada por visitar meu Dark World!
 
-*A aventura ainda está carregando...*
+* A aventura ainda está carregando... *
 
-<img src="assets/characters/knight.gif" width="65" alt="A mysterious knight">
+<br>
+
+<img src="assets/characters/knight.gif" width="75" alt="A mysterious knight">
 
 <sub>Algo está observando das sombras.</sub>
+
+<br><br>
+
+<code>✧ SEE YOU IN THE NEXT ADVENTURE ✧</code>
 
 </div>
 
