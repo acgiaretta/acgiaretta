@@ -33,11 +33,11 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 ## ✦ Meu Inventário
 
-**Tecnologias que Estudei:**
+**Linguagens e Ferramentas:**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,mysql" alt="HTML, CSS, JavaScript, C and MySQL">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,vscodium,github" alt="HTML, CSS, JavaScript, C, MySQL, VSCodium and GitHub">
 
 </div>
 
