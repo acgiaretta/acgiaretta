@@ -71,6 +71,5 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 <div align="left">
   <img src="assets/characters/knight.gif" width="55" alt="A mysterious knight">
-  <br>
   <sub><i>Algo está observando das sombras.</i></sub>
 </div>
