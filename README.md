@@ -7,7 +7,7 @@
 
 *Bem-vindo(a) ao meu cantinho do Dark World.*
 
-`Estudante de Sistemas para Internet` · `Desenvolvedora em Progresso`
+`Estudante de Sistemas para Internet` · `Desenvolvedora em Progresso` · `Médica Veterinária`
 
 <img src="assets/decorations/divider.gif" width="70%" alt="Animated divider">
 
@@ -21,9 +21,9 @@
 
 </div>
 
-Olá! Eu sou a Carol, uma estudante de tecnologia explorando o mundo do desenvolvimento.
+Olá, viajante! Eu sou a **Carol**.
 
-Atualmente, estou aprendendo programação, desenvolvimento web e banco de dados, enquanto descubro quais áreas da tecnologia mais me interessam!
+Sou veterinária de formação e, atualmente, estudante de **Sistemas para Internet**, explorando o mundo da programação e da tecnologia.
 
 Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando algo ou passando um tempo com meus gatos.
 
