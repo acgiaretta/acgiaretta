@@ -70,7 +70,7 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 <table>
   <tr>
     <td width="65">
-      <img src="assets/characters/roaring-knight.gif" width="65">
+      <img src="assets/characters/knight.gif" width="65">
     </td>
     <td valign="middle">
       <sub><i>Algo está observando das sombras.</i></sub>
