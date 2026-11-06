@@ -17,11 +17,11 @@
 
 <div align="center">
 
-<img src="assets/characters/kris.png" width="100" align="right" alt="Kris">
+<img src="assets/characters/susie.png" width="100" align="right" alt="Susie">
 
 </div>
 
-Olá! Eu sou a Carol, a technology student exploring the world of development.
+Olá! Eu sou a Carol, uma estudante de tecnologia explorando o mundo do desenvolvimento.
 
 Atualmente, estou aprendendo programação, desenvolvimento web e banco de dados, enquanto descubro quais áreas da tecnologia mais me interessam!
 
@@ -77,7 +77,7 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 <div align="center">
 
-<img src="assets/characters/susie.png" width="90" alt="Susie">
+<img src="assets/characters/kris.png" width="90" alt="Kris">
 <img src="assets/characters/noelle.png" width="90" alt="Noelle">
 <img src="assets/characters/ralsei.png" width="90" alt="Ralsei">
 
