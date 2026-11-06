@@ -57,24 +57,6 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 ---
 
-## ♡ Fora do Dark World
-
-<div align="center">
-
-<img src="assets/icons/books.png" width="65" alt="Books">
-<img src="assets/icons/games.png" width="65" alt="Games">
-<img src="assets/icons/cats.png" width="65" alt="Cats">
-
-<br>
-
-**Livros · Jogos · Gatos**
-
-*Três coisas que tornam o meu mundo um pouco melhor.*
-
-</div>
-
----
-
 <div align="center">
 
 <img src="assets/characters/kris.png" width="60" alt="Kris">
