@@ -67,9 +67,13 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 *A aventura ainda está carregando...*
 
-</div>
-
-<div align="left">
-  <img src="assets/characters/knight.gif" width="55" alt="A mysterious knight">
-  <sub><i>Algo está observando das sombras.</i></sub>
-</div>
+<table>
+  <tr>
+    <td width="65">
+      <img src="assets/characters/roaring-knight.gif" width="65">
+    </td>
+    <td valign="middle">
+      <sub><i>Algo está observando das sombras.</i></sub>
+    </td>
+  </tr>
+</table>
