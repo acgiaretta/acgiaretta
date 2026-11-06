@@ -65,26 +65,13 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 ### Obrigada por visitar meu Dark World!
 
-<div align="center">
+*A aventura ainda está carregando...*
 
-<code>✧ SEE YOU IN THE NEXT ADVENTURE ✧</code>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td align="left" width="150">
-
-<img src="assets/characters/knight.gif" width="75" alt="A mysterious knight">
+<img src="assets/characters/knight.gif" width="65" alt="A mysterious knight">
 
 <sub>Algo está observando das sombras.</sub>
 
-</td>
-<td width="*"></td>
-</tr>
-</table>
+</div>
 
 <!--
 O CAVALHEIRO ESTÁ SE APROXIMANDO.
