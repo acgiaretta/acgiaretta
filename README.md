@@ -77,7 +77,7 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 
 <div align="center">
 
-<img src="assets/characters/kris.png" width="90" alt="Kris">
+<img src="assets/characters/kris.png" width="60" alt="Kris">
 <img src="assets/characters/noelle.png" width="90" alt="Noelle">
 <img src="assets/characters/ralsei.png" width="90" alt="Ralsei">
 
