@@ -15,21 +15,21 @@
 
 ## ✦ Sobre Mim
 
-<div align="center">
-
-<img src="assets/characters/susie.png" width="100" align="right" alt="Susie">
-
-</div>
+<img src="assets/characters/susie.png" width="110" align="right" alt="Susie">
 
 Olá, viajante! Eu sou a **Carol**.
 
-Sou veterinária de formação e, atualmente, estudante de **Sistemas para Internet**, explorando o mundo da programação e da tecnologia.
+Minha jornada começou na **Medicina Veterinária**, e aualmente, sou estudante de **Sistemas para Internet** desbravando um novo universo: o da programação e da tecnologia. 
 
-Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando algo ou passando um tempo com meus gatos.
+Tenho interesse em diversas áreas do desenvolvimento, especialmente **Front-end**, pela possibilidade de criar interfaces e experiências visuais; **Back-end e bancos de dados**, pela lógica e estrutura que fazem os sistemas funcionarem; e **Cibersegurança**, pela curiosidade em compreender como proteger informações e sistemas.
+
+Gosto de aprender na prática, experimentar ferramentas, enfrentar desafios e desenvolver projetos que me permitam colocar meus conhecimentos em ação. Atualmente, também estou ampliando minha experiência com HTML, CSS, JavaScript, C e MySQL.
+
+Fora do universo da programação, meus interesses incluem **livros, jogos e, claro, gatos**.
 
 <br clear="right">
 
----
+<img src="assets/decorations/divider.gif" width="70%" alt="Animated divider">
 
 ## ✦ Meu Inventário
 
@@ -38,20 +38,6 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,vscodium,github" alt="HTML, CSS, JavaScript, C, MySQL, VSCodium and GitHub">
-
-</div>
-
-## ✧ Escolha o seu Caminho
-
-<div align="center">
-
-| Rota | Interesse |
-|:---:|:---|
-| 🎨 | Desenvolvimento Front-end |
-| 🗄️ | Back-end & Banco de Dados |
-| 🔐 | Cibersegurança |
-
-*Continuo explorando, aprendendo e encontrando o meu próprio caminho.*
 
 </div>
 
@@ -74,4 +60,6 @@ Quando não estiver codando, eu provavelmente estarei lendo um livro, jogando al
     <img src="assets/characters/knight.gif" width="65" align="middle">
     <sub><i>Algo está observando das sombras.</i></sub>
   </p>
+</div>
+
 </div>
